@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML 3 Jonas", "UML 3 Jonas\UML 3 Jonas.csproj", "{5D3B227E-1AF2-49D2-9795-DDA29C4A4487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML 3 Jonas Test", "UML 3 Jonas Test\UML 3 Jonas Test.csproj", "{97B03350-950D-4CF2-990D-4A0E345F240D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3B227E-1AF2-49D2-9795-DDA29C4A4487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3B227E-1AF2-49D2-9795-DDA29C4A4487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3B227E-1AF2-49D2-9795-DDA29C4A4487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3B227E-1AF2-49D2-9795-DDA29C4A4487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B03350-950D-4CF2-990D-4A0E345F240D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B03350-950D-4CF2-990D-4A0E345F240D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B03350-950D-4CF2-990D-4A0E345F240D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B03350-950D-4CF2-990D-4A0E345F240D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D64AC2B-E517-46CE-AF8A-F9C2F542681A}
+	EndGlobalSection
+EndGlobal
